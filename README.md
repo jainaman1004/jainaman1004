@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯Hello, This is Aman jain<br>🔭 I’m currently working on Spotify-clone<br>🌱 I’m currently learning JAVA , HTML , CSS , JAVASCRIPT , REACT.JS<br>💬 Ask me about REACT<br>⚡ Fun fact I THINK I M FUNNY😎
+👯Hello, This is Aman jain<br>🔭 I’m currently working on Spotify-clone<br>🌱 I’m currently learning JAVA , HTML , CSS , JAVASCRIPT , REACT.JS<br>💬 Ask me about HTML, CSS, Javascript, REACT<br>⚡ Fun fact I THINK I M FUNNY😎
 
 
 ## 🌐 Socials:
